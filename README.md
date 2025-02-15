@@ -1,15 +1,12 @@
-<doctype html!>
+<!Doctype html>
  <html>
    <head>
      <title>self-Introduction</title>
     <body>
-- 👋 Hi, I’m @Red/Note5678
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+      <div>
+        <h1>Hi I'm Red_Nøte</h1>
+         <p> Aspiring Web designer</p>
+
 
 <!---
 RedNote5678/RedNote5678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
