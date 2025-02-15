@@ -6,6 +6,7 @@
       <div>
         <h1>Hi I'm Red_Nøte</h1>
          <p> Aspiring Web designer</p>
+         <img src=
 
 
 <!---
